@@ -73,5 +73,10 @@
     - => npm install redux react-redux redux-promise redux-thunk --save
     - store에 state를 변경하고 싶을때 객체 형식이 아닌 Promise, Functions 형식으로 받으면 action은 객체 형식이기 때문에 변경하지 못한다. 그래서 redux-thunk와 redux-promise가 Functions와 Promise 형식인지 알려주는 역할을 한다.
 
+  - Redux를 통한 인증체크
+
+    ![image](https://user-images.githubusercontent.com/65644486/150081802-c15d62a5-8fe0-4fd9-84ba-ba4e28a8a64d.png)
+
+
 
   
